@@ -1,12 +1,20 @@
 # 🛒 Customer Purchase Pattern Analyzer
 
+## 📥 Downloads
+
+| File | Description |
+|---|---|
+| [📈 Customer_Purchase_Pattern_Analyzer.xlsx](Customer_Purchase_Pattern_Analyzer.xlsx) | Interactive Excel dashboard (PivotTables, PivotCharts, Slicers & Timeline) |
+
+---
+
 An end-to-end **retail / e-commerce analytics** project that turns raw customer
 transaction data into business insight using an **interactive Excel dashboard**
 (PivotTables, PivotCharts, Slicers & a Timeline). It analyses customer buying
 behaviour, spending trends and loyalty to help a business improve **customer
 retention and sales strategy**.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](image.png)
 
 ---
 
